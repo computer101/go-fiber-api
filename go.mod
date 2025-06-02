@@ -1,4 +1,4 @@
-module github.com/your/repo
+module github.com/computer101/go-fiber-api
 
 go 1.24.3
 
