@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/your_username/go-fiber-api/handlers"
+	"github.com/computer101/go-fiber-api/handlers"
 )
 
 func main() {
